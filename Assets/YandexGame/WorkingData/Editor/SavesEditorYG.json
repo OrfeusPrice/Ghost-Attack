@@ -1,0 +1,22 @@
+{
+    "idSave": 20,
+    "isFirstSession": false,
+    "language": "en",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        false,
+        false
+    ],
+    "musicIs": true,
+    "soundIs": true,
+    "coinsSum": 361,
+    "lives": 13,
+    "Costlives": 400,
+    "damageMod": 5,
+    "CostdamageMod": 1600,
+    "XPmod": 3,
+    "CostXPmod": 800
+}
